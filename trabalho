@@ -1,13 +1,15 @@
-### Bem vindo ao meu Perfil 🫀
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
 
-- Estou estudando o Alura 🌨️
-- Estudarei no GitHub para melhor aprendizado
-- Irei compartilhar meus projetos realizados aqui
-  
-### Espero que você se sinta feliz ao ver meu repositório 
-
-- Para manter um bom contato e saudável com minha pessoa entre em contato comigo através do email lucas.santos2804@escola.pr.gov.br
-- Estudo na escola João Marques da Silveira
-### Obrigado por estar aqui
-
-![](https://tenor.com/pt-BR/view/obrigado-obrigada-obrigada-mae-obrigado-deus-thanks-gif-12752192136155875110)
+  </head>
+  <body>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
